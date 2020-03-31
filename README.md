@@ -4,7 +4,7 @@
 By the end of this lesson, the student should be able to:
 
   * [ ] Compare logistic regression to linear regression
-  * [ ] Interprete coefficients
+  * [ ] Understand log odds
   * [ ] Interprete coefficients
   * [ ] Evaluate a model with ROC AUC
 
