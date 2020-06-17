@@ -8,8 +8,10 @@ By the end of this lesson, the student should be able to:
   * [ ] Interprete coefficients
   * [ ] Evaluate a model with ROC AUC
 
-### Exit ticket
-* [ ] [Linear algebra](https://forms.gle/tAj9dE3Lj1soew6R6)
+## Resources
+
+* [ ] [Linear algebra Exit ticket](https://forms.gle/tAj9dE3Lj1soew6R6)
+* [ ] [Daily challenge] (https://github.com/learn-co-students/logistic-regression-daily-dsc)
 
 ### Outline
 
